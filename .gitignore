@@ -1,0 +1,9 @@
+venv
+__pycache__
+Relatorio/__latexindent_temp.tex
+Relatorio/main.aux
+Relatorio/main.fls
+Relatorio/main.fdb_latexmk
+Relatorio/main.log
+Relatorio/main.out
+Relatorio/main.synctex.gz
