@@ -8,3 +8,7 @@ Interpolation methods and analysis in Python.
   pip install -r requirements.txt
   python3 main.py
 ```
+
+## 🔎 Preview:
+
+![Preiew](preview.png)
